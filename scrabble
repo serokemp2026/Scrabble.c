@@ -1,0 +1,12 @@
+# Scrabble.c
+$ make scrabble
+Player 1: Question?
+Player 2: Question!
+Tie!
+$ ./scrabble
+Player 1: red
+Player 2: wheelbarrow
+Player 2 wins!
+$ ./scrabble
+Player 1: COMPUTER
+Player 2: science
